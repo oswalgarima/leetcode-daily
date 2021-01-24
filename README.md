@@ -9,10 +9,12 @@ Additional resources such as [Data Structures & Algorithms in Python](https://ww
 and [Problem Solving with Algorithms and Data Structure using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 are widely cited as valuable resources during my research. 
 
-## Completed Problems `Total: 15`
+## Completed Problems `Total: 18`
 |  #  | Title | Tags | Difficulty | Solution |
 |:---:|:-----:|:----:|:----------:|:--------:|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/array_partition_1.py)
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word)|String|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/string/most_common_word.py)
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/squared_sorted_array.py)
 |1108|[Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address/)|String|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/string/defanging_ip.py)
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/numbers_even_number.py)
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/decompress_encoded_list.py)
@@ -22,6 +24,7 @@ are widely cited as valuable resources during my research.
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/max_prod_two_elements.py)
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/shuffle_array.py)
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/running_sum.py)
+|1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/xor_operation.py)
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/num_good_pairs.py)
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/count_good_triplets.py)
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/matrix_diag_sum.py)
