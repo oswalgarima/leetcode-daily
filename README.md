@@ -9,13 +9,13 @@ Additional resources such as [Data Structures & Algorithms in Python](https://ww
 and [Problem Solving with Algorithms and Data Structure using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 are widely cited as valuable resources during my research. 
 
-## Completed Problems `Total: 18`
+## Completed Problems `Total: 19`
 |  #  | Title | Tags | Difficulty | Solution |
 |:---:|:-----:|:----:|:----------:|:--------:|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/array_partition_1.py)
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word)|String|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/string/most_common_word.py)
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/squared_sorted_array.py)
-|1064|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/greedy/last_stone_weight.py)
+|1064|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/greedy/last_stone_weight.py)
 |1108|[Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address/)|String|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/string/defanging_ip.py)
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/numbers_even_number.py)
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)|Array|Easy|[Python](https://github.com/wtlow003/leetcode-daily/blob/main/arrays/decompress_encoded_list.py)
